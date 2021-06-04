@@ -1,0 +1,13 @@
+.Container{
+    display: flex;
+    background-image: url(C:\Users\shubh\OneDrive\Desktop\Nikita_Assignment\src\img.jpg);
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    width:100vw;
+    height:90vh;
+    margin-top: 0;
+    border-bottom: 4px solid #949294;
+}
+
+
+
